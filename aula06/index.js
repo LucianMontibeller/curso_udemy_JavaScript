@@ -4,4 +4,4 @@ console.log('Em 2000' ,nome, 'Jõao  conheceu Maria.')
 console.log(nome, 'casou com Maria em 2012.')
 console.log('Maria teve um filho com ',nome, 'em 2015.')
 console.log('O filho de ',nome, 'se chama Eduardo.')
-
+console.log('Olá , estou testando o git!')
