@@ -15,9 +15,11 @@ body {
 	line-height: 1.5em;
 }
 
-p {
+pre {
 	margin:0;
+	padding:0;
 }
+
 .container {
 	max-width: 640px;
 	margin: 50px auto;
@@ -56,4 +58,14 @@ form button {
 
 form button:hover {
 	background: var(--primary-color-darker);
+}
+
+.paragrafo-resultado{
+	background:rgb(109, 255, 100);
+	padding:10px 20px;
+}
+
+.bad{
+	background:rgb(255, 150, 150);
+	padding10px 20px;
 }
