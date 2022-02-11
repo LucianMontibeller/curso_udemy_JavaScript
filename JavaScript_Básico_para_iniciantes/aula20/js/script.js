@@ -1,4 +1,5 @@
 function meuEscopo(){
+
 	const form = document.querySelector('.form');
 	const result = document.querySelector('.resultado')	
 //	form.onsubmit = function (evento) {
