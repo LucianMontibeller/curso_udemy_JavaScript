@@ -1,4 +1,4 @@
-# curso udemy JavaScript 
+# Curso udemy JavaScript 
 
 <img src="imagens/JavaScript-Logo.png" align="right" width="500">
 
