@@ -1,1 +1,0 @@
-alert('Conteúdo da mensagem!')

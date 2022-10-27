@@ -1,2 +1,0 @@
-//comentario
-console.log("Lucian")
