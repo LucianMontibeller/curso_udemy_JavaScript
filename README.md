@@ -1,6 +1,6 @@
 # curso_udemy_JavaScript
 
-<img src="imagens/mascote.png" align="right" width="300">
+<img src="imagens/logo-JS.png" align="right" width="300">
 
 # Curso de JavaScript e TypeScript do básico ao avançado 
 
