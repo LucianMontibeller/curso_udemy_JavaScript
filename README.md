@@ -9,6 +9,7 @@
 Não tem nada neste seção por se tratar somente de preparar o ambiente de trabalho.
 # 
 #### Seção 02:
+[aula01-Console.log-A primeira coisa que você vai ver em JS](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula01)
 
 * [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
 * [Código disponível para os exercícios](https://github.com/gustavoguanabara/html-css/tree/master/exercicios)
