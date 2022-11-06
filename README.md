@@ -15,6 +15,7 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 -  [aula04 - Navegador vs Node(HTML + JavaScript)](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula04)
 -  [aula05 - variáveis com let](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula05-variaveis-com-let)
 -  [aula06 - constantes com const](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula06-constantes-com-const)
+-  [aula07 - exercícios const e let](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula07-exercicios-const-let)
 
 
 * [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
