@@ -11,6 +11,8 @@ const altura = 1.80
 let imc = peso / (altura * altura)
 let anoNascimento = anoatual - idade;
 
-console.log(nome, sobrenome, 'tem ',idade,'anos, pesa',peso,'kg')
+console.log(nome + ' ' + sobrenome +' tem ' + idade + ' anos, pesa ' + peso + ' kg')
 console.log('tem',altura,'de altura e seu IMC é de',imc)
+console.log(`${nome} nasceu em ${anoNascimento}`)
+
 
