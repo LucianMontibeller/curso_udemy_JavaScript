@@ -13,6 +13,10 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 -  [aula02 - Exercícios](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula02)
 -  [aula03 - Comentários do código](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula03)
 -  [aula04 - Navegador vs Node(HTML + JavaScript)](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula04)
+-  [aula05 - variáveis com let](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula05-variaveis-com-let)
+
+
+
 * [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
 * [Código disponível para os exercícios](https://github.com/gustavoguanabara/html-css/tree/master/exercicios)
 * [Execute os exercícios aqui](https://gustavoguanabara.github.io/html-css/exercicios/)
