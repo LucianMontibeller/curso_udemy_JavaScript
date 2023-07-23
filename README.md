@@ -18,14 +18,6 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 -  [aula07 - exercícios const e let](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula07-exercicios-const-let)
 -  [aula08 - letVSvar primeira diferença](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula08-letVSvar-primeira-deferanca)
 -  [aula09 - tipos de dados primitivos](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula09-tipos-de-dados-primitivos)
-
-
-
-* [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
-* [Código disponível para os exercícios](https://github.com/gustavoguanabara/html-css/tree/master/exercicios)
-* [Execute os exercícios aqui](https://gustavoguanabara.github.io/html-css/exercicios/)
-* [Resolva os desafios de HTML aqui](https://github.com/gustavoguanabara/html-css/tree/master/desafios)
-
-
+-  [aula10-operadores-aritmeticos-de-atribuicao-incremento](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula10-operadores-aritmeticos-de-atribuicao-incremento)
 
 
