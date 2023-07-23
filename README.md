@@ -20,4 +20,5 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 -  [aula09 - tipos de dados primitivos](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula09-tipos-de-dados-primitivos)
 -  [aula10-operadores-aritmeticos-de-atribuicao-incremento](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula10-operadores-aritmeticos-de-atribuicao-incremento)
 
+-  [aula10-operadores-aritmeticos-de-atribuicao-incremento](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/Conteudo_do_curso/secao02-JavaScript-Basico-Para-iniciantes/aula10-operadores-aritmeticos-de-atribuicao-incremento)
 
