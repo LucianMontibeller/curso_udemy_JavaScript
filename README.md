@@ -22,3 +22,4 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 
 -  [aula11-alert-confirm-prompt](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula11-alert-confirm-prompt)
 
+-  [aula12-exercicio-com-variaveis](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula12-exercicio-com-variaveis)
