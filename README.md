@@ -27,3 +27,5 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 -  [aula13-mais-sobre-strings](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula13-mais-sobre-strings)
 
 -  [aula14-mais-sobre-numbers](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula14-mais-sobre-numbers)
+
+-  [aula15-objeto-math](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula15-objeto-math)
