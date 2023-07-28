@@ -32,4 +32,4 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 
 -  [aula16-arrays-basico](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula16-arrays-basico)
 
--  [aula17-funcoes-basico](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula16-funcoes-basico)
+-  [aula17-funcoes-basico](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula17-funcoes-basico)
