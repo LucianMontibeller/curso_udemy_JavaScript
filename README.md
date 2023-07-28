@@ -35,3 +35,5 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 -  [aula17-funcoes-basico](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula17-funcoes-basico)
 
 -  [aula18-objetos-basico](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula18-objetos-basico)
+
+-  [aula19-valores-primitivos-e-referencia](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula19-valores-primitivos-e-referencia)
