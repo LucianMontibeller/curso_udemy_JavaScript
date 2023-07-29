@@ -8,7 +8,7 @@
 #### Seção 01: Configurando o ambiente 
 Não tem nada neste seção por se tratar somente de preparar o ambiente de trabalho.
 # 
-<details>
+<details open>
 <summary>Seção 02: JavaScript Básico para iniciantes</summary>
 <br>
 - [aula01 - Console.log-A primeira coisa que você vai ver em JS](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula01)
