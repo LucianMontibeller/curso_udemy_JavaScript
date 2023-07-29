@@ -11,7 +11,7 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 <details>
 <summary>Seção 02: JavaScript Básico para iniciantes</summary>
 <br>
-+ -  [aula01 - Console.log-A primeira coisa que você vai ver em JS](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula01)
+-[aula01 - Console.log-A primeira coisa que você vai ver em JS](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula01)
 -  [aula02 - Exercícios](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula02)
 -  [aula03 - Comentários do código](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula03)
 -  [aula04 - Navegador vs Node(HTML + JavaScript)](https//:github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula04)
