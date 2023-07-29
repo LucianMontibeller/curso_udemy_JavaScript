@@ -54,3 +54,11 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 
 -  [aula20-exercicio-funcao-arrays-objetos](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula20-exercicio-funcao-arrays-objetos)
 </details>
+
+<details>
+<summary>Seção 03: JavaScript lógica de programação</summary>
+<br>
+
+-  [aula19-valores-primitivos-e-referencia](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula19-valores-primitivos-e-referencia)
+
+</details>
