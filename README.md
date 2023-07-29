@@ -9,7 +9,7 @@
 <br>
 
 Não tem nada neste seção por se tratar somente de preparar o ambiente de trabalho.
-# 
+</details>
 <details>
 <summary>Seção 02: JavaScript Básico para iniciantes</summary>
 <br>
