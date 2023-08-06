@@ -59,6 +59,6 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 <summary>Seção 03: JavaScript lógica de programação</summary>
 <br>
 
--  [aula19-valores-primitivos-e-referencia](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao02-JavaScript-Basico-Para-iniciantes/aula19-valores-primitivos-e-referencia)
+-  [aula01-Operadores-de-comparação](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula01-operadores-de-comparacao)
 
 </details>
