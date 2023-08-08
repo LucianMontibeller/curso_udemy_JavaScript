@@ -68,10 +68,9 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 -  [aula03-AvaliacaodeCurto-Circuito](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula03-AvaliacaodeCurto-Circuito)
 
 -  [aula04-if-else-01](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula04-if-else-01)
--
+
 -  [aula05-if-else-02](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula05-if-else-02)
 
 -  [aula06-Exercicio-tudo-foi-que-aprendido](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula06-Exercicio-tudo-foi-que-aprendido)
--
 
 </details>
