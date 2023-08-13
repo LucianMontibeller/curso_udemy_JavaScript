@@ -73,4 +73,6 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 
 -  [aula06-Exercicio-tudo-foi-que-aprendido](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula06-Exercicio-tudo-foi-que-aprendido)
 
+  -  [aula07-operacao-ternaria](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula07-operacao-ternaria)
+
 </details>
