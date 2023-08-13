@@ -76,4 +76,6 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
   -  [aula07-operacao-ternaria](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula07-operacao-ternaria)
 
  -  [aula08-objeto-Date](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula08-objeto-Date)
+
+ -  [aula09-Switch-Case](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula09-Switch-Case)
 </details>
