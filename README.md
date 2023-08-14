@@ -78,4 +78,12 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
  -  [aula08-objeto-Date](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula08-objeto-Date)
 
  -  [aula09-Switch-Case](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula09-Switch-Case)
+
+ -  [aula10-diferenca-let-const](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula10-diferenca-let-const)
+
+ -  [aula11-atribuicao-desestruturacao-arrays](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula11-atribuicao-desestruturacao-arrays)
+
+ -  [aula12-atribuicao-desestruturacao-objetos](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula12-atribuicao-desestruturacao-objetos)
+
+ -  [aula13-for-classico-estrutura-de-repeticao](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula13-for-classico-estrutura-de-repeticao)
 </details>
