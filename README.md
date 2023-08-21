@@ -86,4 +86,32 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
  -  [aula12-atribuicao-desestruturacao-objetos](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula12-atribuicao-desestruturacao-objetos)
 
  -  [aula13-for-classico-estrutura-de-repeticao](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula13-for-classico-estrutura-de-repeticao)
+
+ -  [aula14-exercicio-for](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula14-exercicio-for)
+
+ -  [aula15-DOM](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula15-DOM)
+
+ -  [aula15-For-in](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula15-For-in)
+
+ -  [aula16-For-of](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula16-For-of)
+
+ -  [aula17-exercicio-nodeList-Browser](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula17-exercicio-nodeList-Browser)
+
+ -  [aula18-while-do-while](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula18-while-do-while)
+
+ -  [aula19-breck-continue](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula19-breck-continue)
+
+ -  [aula20-exercicio-logica01](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula20-exercicio-logica01)
+
+ -  [aula21-exercicio-logica02](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula21-exercicio-logica02)
+
+ -  [aula22-exercicio-logica03](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula22-exercicio-logica03)
+
+ -  [aula23-tratando-lancando-erros](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula23-tratando-lancando-erros)
+
+ -  [aula24-setInterval-setTimeout](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula24-setInterval-setTimeout)
+
+ -  [aula25-exercicio-criando-time-setInterval](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula25-exercicio-criando-time-setInterval)
+
+ -  [aula26-criando-lista-tarefas](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula26-criando-lista-tarefas)
 </details>
