@@ -118,6 +118,7 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 <details>
 <summary>Seção 04: JavaScript Funcões (Avançado)</summary>
 <br>
+  
 -  [aula01-maneiras-declaras-funcoes](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao04-funcoes-avancado/aula01-maneiras-declarar-funcoes)
 
 -  [aula02-parametros-funcao](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao04-funcoes-avancado/aula02-parametros-funcao)
