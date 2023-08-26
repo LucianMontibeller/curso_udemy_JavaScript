@@ -115,3 +115,25 @@ Não tem nada neste seção por se tratar somente de preparar o ambiente de trab
 
  -  [aula26-criando-lista-tarefas](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao03-logica-programacao/aula26-criando-lista-tarefas)
 </details>
+<details>
+<summary>Seção 04: JavaScript Funcões (Avançado)</summary>
+<br>
+-  [aula01-maneiras-declaras-funcoes](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao04-funcoes-avancado/aula01-maneiras-declarar-funcoes)
+
+-  [aula02-parametros-funcao](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao04-funcoes-avancado/aula02-parametros-funcao)
+
+-  [aula03-retorno-funcao](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao04-funcoes-avancado/aula03-retorno-funcao)
+
+-  [aula04-escopo-lexico](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao04-funcoes-avancado/aula04-escopo-lexico)
+
+-  [aula05-closures](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao04-funcoes-avancado/aula05-closures)
+
+-  [aula06-funcoes-callback](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao04-funcoes-avancado/aula06-funcoes-callback)
+
+-  [aula07-funcoes-imediatas-IIFE](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao04-funcoes-avancado/aula07-funcoes-imediatas-IIFE)
+
+-  [aula08-fatory-functions](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao04-funcoes-avancado/aula08-factory-functions)
+
+-  [aula09-praticando-factory-function](https://github.com/LucianMontibeller/curso_udemy_JavaScript/tree/main/secao04-funcoes-avancado/aula09-praticando-factory-function)
+
+</details>
